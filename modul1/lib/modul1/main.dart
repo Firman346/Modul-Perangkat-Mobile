@@ -169,7 +169,7 @@ class ProfileScreen extends StatelessWidget {
                       _InfoRow(
                         icon: Icons.link_rounded,
                         label: 'Repositori GitHub',
-                        value: 'github.com/threesix346/profile-mahasiswa',
+                        value: 'github.com/threesix346/Modul-Perangkat-Mobile',
                       ),
 
                       Divider(
