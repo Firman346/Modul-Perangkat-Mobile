@@ -1,0 +1,17 @@
+# Flutter generated files
+**/.dart_tool/
+**/build/
+
+# Flutter/Dart generated files
+**/.packages
+**/.pub-cache/
+**/pubspec.lock
+
+# IDE
+**/.idea/
+**/*.iml
+**/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
